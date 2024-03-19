@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group
+        android:id="@+id/group01"
+        >
+
+        <item
+            android:icon="@drawable/home"
+            android:id="@+id/navHome"
+            android:title="Home"/>
+
+        <item
+            android:icon="@drawable/profile"
+            android:id="@+id/navabout"
+            android:title="About"/>
+
+
+        <item
+            android:icon="@drawable/share"
+            android:id="@+id/navSkill"
+            android:title="Skill"/>
+
+    </group>
+
+
+    <group
+        android:id="@+id/group02"
+        >
+
+        <item
+            android:icon="@drawable/rating"
+            android:id="@+id/navServices"
+            android:title="Services"/>
+
+
+        <item
+            android:icon="@drawable/email"
+            android:id="@+id/aPP"
+            android:title="App"/>
+
+        <item
+            android:icon="@drawable/email"
+            android:id="@+id/about"
+            android:title="About"/>
+    </group>
+
+
+
+    <group
+        android:id="@+id/group03"
+        >
+
+        <item
+            android:icon="@drawable/email"
+            android:id="@+id/like"
+            android:title="Like"/>
+
+
+        <item
+            android:icon="@drawable/email"
+            android:id="@+id/folloW"
+            android:title="Follow"/>
+
+        <item
+            android:icon="@drawable/email"
+            android:id="@+id/share"
+            android:title="Share"/>
+    </group>
+
+
+</menu>
