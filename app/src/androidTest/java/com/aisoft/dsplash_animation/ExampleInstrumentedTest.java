@@ -1,4 +1,4 @@
-package com.aisoft.navigationdrawermenu;
+package com.aisoft.dsplash_animation;
 
 import android.content.Context;
 

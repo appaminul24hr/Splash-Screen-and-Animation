@@ -4,6 +4,8 @@
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name = "android:statusBarColor">@android:color/transparent</item>
+       <!--  <item name="android:statusBarColor"tools:targetApi="1">#000000</item>
+        <item name="android:windowLightStatusBar"tools:ignore="NewApi">true</item>  -->
     </style>
 
     <style name="Theme.NavigationDrawerMenu" parent="Base.Theme.NavigationDrawerMenu" />

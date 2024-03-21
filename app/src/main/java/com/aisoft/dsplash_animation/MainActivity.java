@@ -1,4 +1,4 @@
-package com.aisoft.navigationdrawermenu;
+package com.aisoft.dsplash_animation;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,17 +7,11 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import androidx.activity.EdgeToEdge;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
 import com.google.android.material.navigation.NavigationView;
-
-import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -76,6 +70,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 //===============end nav part=================
+
 
 
 

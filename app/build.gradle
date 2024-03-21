@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.aisoft.navigationdrawermenu'
+    namespace 'com.aisoft.dsplash_animation'
     compileSdk 34
 
     defaultConfig {

@@ -1,9 +1,8 @@
-package com.aisoft.navigationdrawermenu;
+package com.aisoft.dsplash_animation;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageView;
 
 import androidx.activity.EdgeToEdge;
